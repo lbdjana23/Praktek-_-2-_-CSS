@@ -3,22 +3,27 @@
     margin: 0;
 }
 .border-sample{
+    background-color: #48dbcf;
     border:thin solid black !important;
+    
 }
 *{
     padding: 0;
     margin: 0;
 }
 body{
+    background-color: #856679;
     font-family: 'Josefin Slab';
-    color: #e70505;
+    color: #ec0808;
     font-size: 13pt;
+    
 }
 *{
     padding: 0;
     margin: 0;
 }
 header{
+    
     color: #6495ED;
     font-size: 24pt;
     padding: 20px;
@@ -56,7 +61,7 @@ h1{
     padding: 0;
     margin: 0;
 }
-p{
+p{ 
     margin-bottom: 10px;
 }
 *{
